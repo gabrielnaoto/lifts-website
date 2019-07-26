@@ -1,0 +1,8 @@
+{
+  "root": "public_html/",
+  "encoding": "utf8",
+  "clean_urls": true,
+  "routes": {
+    "/*": "index.html"
+  }
+}
