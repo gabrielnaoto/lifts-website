@@ -293,7 +293,7 @@ a:focus, .button:focus, button:focus, .btn:focus {
 /* line 161, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_common.scss */
 .section_tittle p {
   color: #556172;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   line-height: 30px;
   font-family: "Poppins", sans-serif;
 }
@@ -2383,7 +2383,7 @@ ul {
 
 /* line 296, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_menu.scss */
 .home_menu .main-menu-item {
-  justify-content: center !important;
+  justify-content: flex-end !important;
 }
 
 /* line 302, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_menu.scss */
@@ -5882,3 +5882,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.m-r {
+  margin-right: 10px;
+}
