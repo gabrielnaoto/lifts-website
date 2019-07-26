@@ -6,5 +6,6 @@
     "/inicio": "index.html",
     "/planos": "pricing.html",
     "/contato": "contact.html"
-  }
+  },
+  "error_page": "404.html"
 }
